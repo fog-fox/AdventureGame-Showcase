@@ -1,0 +1,14 @@
+{
+  "choices": {
+    "1-1": [
+      {
+        "text": "문을 강제로 연다.",
+        "result": "UnlockDoor"
+      },
+      {
+        "text": "다른 방법을 찾는다.",
+        "result": "FindAnotherPath"
+      }
+    ]
+  }
+}
